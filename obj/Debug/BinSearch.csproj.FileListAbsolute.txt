@@ -1,0 +1,5 @@
+c:\users\benjamin\documents\visual studio 2012\Projects\BinSearch\BinSearch\bin\Debug\BinSearch.exe.config
+c:\users\benjamin\documents\visual studio 2012\Projects\BinSearch\BinSearch\bin\Debug\BinSearch.exe
+c:\users\benjamin\documents\visual studio 2012\Projects\BinSearch\BinSearch\bin\Debug\BinSearch.pdb
+c:\users\benjamin\documents\visual studio 2012\Projects\BinSearch\BinSearch\obj\Debug\BinSearch.exe
+c:\users\benjamin\documents\visual studio 2012\Projects\BinSearch\BinSearch\obj\Debug\BinSearch.pdb
