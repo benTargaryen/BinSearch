@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,13 +14,12 @@ namespace BinSearch
             int[] numbers = new int[10];
 
             for (int i = 0; i < numbers.Length; i++)
-			{
+	    {
                 numbers[i] = 1 + i;
-			}
+	    }
             for (int i = 0; i < numbers.Length; i++)
             {
                 Console.WriteLine("Array {0}", numbers[i]);
-
             }
             searchkey = Convert.ToInt32(Console.ReadLine());
             int x = Array.BinarySearch(numbers, searchkey );
